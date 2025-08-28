@@ -1,8 +1,11 @@
 import React from 'react'
+import { NavigationMenuDemo } from './navigation'
 
 const Header = () => {
   return (
-    <div>Header</div>
+    <div>
+      <NavigationMenuDemo />
+    </div>
   )
 }
 
