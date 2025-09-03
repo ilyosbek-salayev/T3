@@ -1,10 +1,11 @@
 import React from 'react'
-import { NavigationMenuDemo } from './navigation'
+import { Navbar } from './navigation'
+
 
 const Header = () => {
   return (
     <div>
-      <NavigationMenuDemo />
+      <Navbar />
     </div>
   )
 }
